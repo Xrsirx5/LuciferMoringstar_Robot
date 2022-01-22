@@ -1,3 +1,4 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FXrsirx5%2FLuciferMoringstar_Robot&plugins=mongodb&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CCHANNELS%2CADMINS%2COMDB_API_KEY%2CCUSTOM_FILE_CAPTION%2CAUTH_GROUPS%2CSTART_MSG%2CAUTH_CHANNEL)
 ### [LuciferMoringstar_Robot](https://telegram.dog/LuciferMoringstar_Robot)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar_Robot?style=social)
